@@ -1,16 +1,10 @@
-# good_taste
+## good_taste
+Online food ordering and reservation Webview app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p align="center">
+  <img src="https://imgur.com/EVuEdNp.png" width="250" title="Home Page" alt="Home Page">
+  <img src="https://imgur.com/JpNg3Cw.png" width="250" title="Home Page"  alt="Order Page">
+  <img src="https://imgur.com/JzrH2y2.png" width="250" title="Reserve Page" alt="Reserve Page">
+</p>
